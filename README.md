@@ -8,13 +8,13 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h"> <br/>
+	<img src="https://count.getloli.com/get/@lohit-dev?theme=gelbooru-h"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
+<h1 align="center">🙏 Kneel Before Your King 🙏</h1>
 
-### 👑 About Me – Emperor of Errors
-Hey, I'm **King Grey**, also known as **Emperor Grey**. Why the name? Well, I’m obsessed with light novels, manga, manhwa, anime—you name it! Ever read *The Beginning After the End*? That’s where I got **King Grey** from. But instead of ruling a kingdom, I’m out here battling errors and bugs on a daily basis. 🧑‍💻
+### 👑 About Me – King of Errors
+Hey, I'm **King Grey**, Why the name? Well, I’m obsessed with light novels, manga, manhwa, anime—you name it! Ever read *The Beginning After the End*? That’s where I got **King Grey** from. But instead of ruling a kingdom, I’m out here battling errors and bugs on a daily basis. 🧑‍💻
 
 I enjoy building things (especially in **Android development**) but, let's be real, native dev fried my brain 🧠, so I’m sticking to the **web world**. Oh, and **Neovim**? My best pal. Mouse? Never heard of her! 🖱️❌
 
@@ -40,23 +40,23 @@ When I’m not getting lost in **webtoons** or anime, I’m diving deep into cod
 
 ### 🏆 GitHub Stats – My Error Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emperor-Grey&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emperor-Grey&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emperor-Grey">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emperor-Grey&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px" alt="Top Languages"/>
+  <a href="https://github.com/lohit-dev">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px" alt="Top Languages"/>
   </a>
 </p>
 
 ### 🌟 Contribution Graph – Error Graph of My Life
 <p align="center">
-  <a href="https://github.com/Emperor-Grey">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emperor-Grey&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/lohit-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
 
