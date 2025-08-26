@@ -44,16 +44,16 @@ Hey, I'm **King Grey**! Only true fans will know where I got this name from - it
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=catppuccin_mocha&hide_border=true&background=00000000&border_radius=0" alt="GitHub Streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=catppuccin_mocha&hide_border=true&background=00000000&border_radius=0" alt="GitHub Streak" />
   </div>
   <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=0" alt="GitHub Stats" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=0" alt="GitHub Stats" />
   </div>
 </div>
 
 <div align="center" style="margin: 30px 0;">
   <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: inline-flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&border_radius=0" alt="Top Languages" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&border_radius=0" alt="Top Languages" />
   </div>
 </div>
 
