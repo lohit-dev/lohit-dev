@@ -61,7 +61,7 @@ Hey, I'm **King Grey**! Only true fans will know where I got this name from - it
 
 <div align="center" style="margin: 30px 0;">
   <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: inline-flex; align-items: center; justify-content: center; flex-direction: column;">
-    <img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap" alt="LeetCode Progress" width="90%" style="border-radius: 8px;"/>
+    <img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap" alt="LeetCode Progress" style="border-radius: 8px;"/>
     <p style="color: #BAC2DE; font-style: italic; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
       Started on August 25, 2025 • Consistency over intensity
     </p>
