@@ -1,65 +1,86 @@
+<div align="center">
+  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=180&section=header&text=Red%20Lines%20Everywhere...%20Send%20Help!&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Errors%20Are%20My%20Life...&descAlignY=70&descAlign=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Tech%20Explorer%20•%20Probably%20Breaking%20Things&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Jack%20of%20All%20Trades%20•%20Master%20of%20None&descAlignY=70&descAlign=50"/>
 </p>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
+
+<h1 align="center">🎌 Kneel Before Your Weeb King 🎌</h1>
+
+<p align="center" style="color: #8B949E; max-width: 500px; line-height: 1.6; font-size: 1.1rem; font-style: italic; margin: 20px auto;">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=churchill&font=Redressed&quoteType=random" alt="Random Quote" width="450"/>
+</p>
+
+### 🗾 About Me – Tech Explorer & Certified Degenerate
+Hey, I'm **King Grey**! Only true fans will know where I got this name from - it even has a manhwa adaptation! I'm a weeb obsessed with light novels, manga, and anime. Currently exploring the digital realm instead of ruling kingdoms. 🧑‍💻
+
+**Jack of all trades, master of none** • **Neovim config hoarder** • **Linux rice connoisseur** • **Professional tab collector** • Probably has 47 browser tabs open right now 🤓
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
 	<img src="https://count.getloli.com/get/@lohit-dev?theme=gelbooru-h"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your King 🙏</h1>
+### 🛠️ Tech Arsenal – Currently Hoarding
 
-### 👑 About Me – King of Errors
-Hey, I'm **King Grey**, Why the name? Well, I’m obsessed with light novels, manga, manhwa, anime—you name it! Ever read *The Beginning After the End*? That’s where I got **King Grey** from. But instead of ruling a kingdom, I’m out here battling errors and bugs on a daily basis. 🧑‍💻
-
-I enjoy building things (especially in **Android development**) but, let's be real, native dev fried my brain 🧠, so I’m sticking to the **web world**. Oh, and **Neovim**? My best pal. Mouse? Never heard of her! 🖱️❌
-
-- **Started coding**: 3 years ago, still drowning in red lines and error messages 💻
-- **Current love**: Taming **Neovim** like a pro, even though I’m still not on **Linux** yet 😅
-- **Dream setup**: One day, I’ll conquer **Hyprland configs** and the mighty **Arch Linux** 🐧
-
-When I’m not getting lost in **webtoons** or anime, I’m diving deep into code, but half the time, I’m fighting off red errors like a knight fending off dragons. 🛡️🔥
-
-### 🛠️ Tech Stack – Tools I Battle With
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,rust,python,java,kotlin&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rust,go&theme=dark" width="120" title="Systems stuff I pretend to understand"><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python&theme=dark" width="180" title="My daily bread and butter"><br/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="60" title="Enterprise trauma survivor">
 </p>
 
-### ⚡ Frameworks & Tools in My Arsenal
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,flask,nodejs,react,reactnative,express,solidity,mongodb,mysql,git,github,androidstudio,neovim,figma&theme=dark" />
-  </a>
-</p>
-
-### 🏆 GitHub Stats – My Error Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
-</p>
+### ⚡ Tools & Adventures in My Digital Journey
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=neovim,arch,linux,docker&theme=dark" width="240" title="Core dev environment"><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss&theme=dark" width="240" title="Web development stack"><br/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,androidstudio,vscode&theme=dark" width="300" title="Design and development tools">
 </p>
 
-<p align="center">
-  <a href="https://github.com/lohit-dev">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px" alt="Top Languages"/>
-  </a>
-</p>
+### 🏆 GitHub Stats – My Digital Footprints
 
-### 🌟 Contribution Graph – Error Graph of My Life
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=catppuccin_mocha&hide_border=true&background=00000000&border_radius=0" alt="GitHub Streak" width="100%"/>
+  </div>
+  <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=0" alt="GitHub Stats" width="100%"/>
+  </div>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: inline-flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&border_radius=0" alt="Top Languages" width="100%"/>
+  </div>
+</div>
+
+### 📊 LeetCode Progress – DSA Journey
+
+<div align="center" style="margin: 30px 0;">
+  <div style="background: #1E1E2E; border-radius: 16px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width: 320px; min-height: 150px; display: inline-flex; align-items: center; justify-content: center; flex-direction: column;">
+    <img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap" alt="LeetCode Progress" width="90%" style="border-radius: 8px;"/>
+    <p style="color: #BAC2DE; font-style: italic; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
+      Started on August 25, 2025 • Consistency over intensity
+    </p>
+  </div>
+</div>
+
+### 🌟 Contribution Graph – My Digital Adventures
+
 <p align="center">
-  <a href="https://github.com/lohit-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=catppuccin-mocha&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph" width="900"/>
 </p>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
+
+<p align="center" style="color: #8B949E; font-size: 14px; margin-top: 40px;">
+  "Jack of all trades, master of none, but oftentimes better than master of one"<br/>
+  Currently collecting dotfiles like Pokémon cards 🃏
+</p>
+  
+</div>
