@@ -8,7 +8,7 @@
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
 
-<h1 align="center">🎌 Kneel Before Your Weeb King 🎌</h1>
+<h1 align="center">🎌 Kneel Before Your King 🎌</h1>
 
 <p align="center" style="color: #8B949E; max-width: 500px; line-height: 1.6; font-size: 1.1rem; font-style: italic; margin: 20px auto;">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=churchill&font=Redressed&quoteType=random" alt="Random Quote" width="450"/>
@@ -46,7 +46,7 @@ Hey, I'm **King Grey**! Only true fans will know where I got this name from - it
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=lohit-dev&theme=catppuccin_mocha&hide_border=true&background=00000000&border_radius=8" alt="GitHub Streak" width="100%" height="200"/>
+        <img src="https://streak-stats.demolab.com?user=lohit-dev&theme=tokyonight&hide_border=true&background=00000000&border_radius=8" alt="GitHub Streak" width="100%" height="200"/>
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" alt="GitHub Stats" width="100%" height="200"/>
