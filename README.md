@@ -11,7 +11,7 @@
 <h1 align="center">🎌 Kneel Before Your King 🎌</h1>
 
 <p align="center" style="color: #8B949E; max-width: 500px; line-height: 1.6; font-size: 1.1rem; font-style: italic; margin: 20px auto;">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=churchill&font=Redressed&quoteType=random" alt="Random Quote" width="450"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=churchill&font=Redressed&quoteType=random" alt="Random Quote" />
 </p>
 
 ### 🗾 About Me
