@@ -40,40 +40,52 @@ Hey, I'm **King Grey**! Only true fans will know where I got this name from - it
   <img src="https://skillicons.dev/icons?i=figma,git,github,androidstudio,vscode&theme=dark" width="300" title="Design and development tools">
 </p>
 
-### 🏆 GitHub Statistics
+
+### 🏆 Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=lohit-dev&theme=tokyonight&hide_border=true&background=00000000&border_radius=8" alt="GitHub Streak" width="100%" height="200"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" alt="GitHub Stats" width="100%" height="200"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=CDD6F4&text_color=CDD6F4&border_radius=8" alt="Top Languages" width="50%" height="200"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
-### 📊 LeetCode Progress
+<table>
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap" alt="LeetCode Progress" style="border-radius: 8px; width: 500px; height: 300px;"/>
-  <p style="color: #BAC2DE; font-style: italic; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
-    Started on August 25, 2025 • Consistency over intensity
-  </p>
-</div>
+<img src="https://streak-stats.demolab.com?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="100%"/>
 
-### 🌟 Contribution Activity
+</td>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=catppuccin-mocha&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph" width="900"/>
+<img src="https://github-stats-extended.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&border_radius=8" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=catppuccin-mocha&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<p style="color:#BAC2DE;font-style:italic;margin-top:15px;">
+Started on August 25, 2025 • Consistency over intensity
 </p>
+
+</div>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
