@@ -49,7 +49,7 @@ Hey, I'm **King Grey**! Only true fans will know where I got this name from - it
 <tr>
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="100%"/>
 
 </td>
 <td width="50%" align="center">
