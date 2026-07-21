@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
 <img src="https://count.getloli.com/get/@lohit-dev?theme=gelbooru-h">
 </p>
 
