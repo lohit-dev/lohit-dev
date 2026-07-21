@@ -7,7 +7,7 @@
 **`$ whoami`**
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=CDD6F4&background=00000000&center=false&vCenter=true&width=600&height=50&lines=Software+Engineer;TypeScript+%C2%B7+Rust+%C2%B7+Go">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=CDD6F4&background=00000000&center=false&vCenter=true&width=600&height=50&lines=Software+Engineer;TypeScript+%C2%B7+Go+%C2%B7+Rust">
 </p>
 
 <br/>
@@ -16,9 +16,9 @@
 
 <p align="left">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=89B4FA)
 ![Go](https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=F5C2E7)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=89B4FA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=A6E3A1)
 ![Docker](https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=89DCEB)
 ![Neovim](https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=A6E3A1)
