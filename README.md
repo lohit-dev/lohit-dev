@@ -31,17 +31,17 @@
 **`$ ./stats.sh --live`**
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="440"/>
-<img src="https://github-stats-extended.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" width="440"/>
+<img src="https://streak-stats.demolab.com/?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" width="49%"/>
 </p>
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&border_radius=8" width="440"/>
-<img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap&border=0&radius=8" width="440"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohit-dev&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&border_radius=8" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/LohitSaidev?theme=catppuccinMocha&font=DM%20Mono&ext=heatmap&border=0&radius=8" width="49%"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=catppuccin-mocha&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true" width="890"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohit-dev&theme=catppuccin-mocha&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true" width="100%"/>
 </p>
 
 <br/>
