@@ -31,7 +31,7 @@
 **`$ ./stats.sh --live`**
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=lohit-dev&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&border_radius=8" width="49%"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api?username=lohit-dev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" width="49%"/>
 </p>
 
